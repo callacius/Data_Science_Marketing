@@ -5,24 +5,24 @@
 >   Se dados sobre os clientes estão disponíveis, podemos aplicar  Ciência de Dados para segmentar o mercado.
 >   Fomos contratados por um banco de NYC para analisar os dados e  dividir os clientes em pelo menos 3 grupos.  
   
--   # CUSTID: Identificação do cliente
--   # BALANCE: Saldo para fazer compras
--   # BALANCE_FREQUENCY: Frequência que o saldo é atualizado (1 = frequente, 0 = não frequente)
--   # PURCHASES: Quantidade de compras realizadas
--   # ONEOFFPURCHASES: Quantidade de compras feitas “de uma só vez” (sem  parcelar)
--   # INSTALLMENTS_PURCHASES: Quantidade de compras parceladas
--   # CASH_ADVANCE: Dinheiro adiantado
--   # PURCHASES_FREQUENCY: Frequência das compras (entre 1 e 0)
--   # ONEOFF_PURCHASES_FREQUENCY: Frequência de compras à vista (entre 1 e  0)
--   # PURCHASES_INSTALLMENTS_FREQUENCY: Frequência de compras parceladas  (entre 1 e 0)
--   # CASH_ADVANCE_FREQUENCY: Frequência de saques de dinheiro adiantado
--   # CASH_ADVANCE_TRX: Número de transações feitas como "Cash in Advance"
--   # PURCHASES_TRX: Número de compras
--   # CREDIT_LIMIT: Limite do cartão de crédito
--   # PAYMENTS: Valor pago
--   # MINIMUM_PAYMENTS: Valor mínimo pago
--   # PRC_FULL_PAYMENT: Percentual de pagamentos da fatura “completa”
--   # TENURE: Posse do titular do cartão
+-   CUSTID: Identificação do cliente
+-   BALANCE: Saldo para fazer compras
+-   BALANCE_FREQUENCY: Frequência que o saldo é atualizado (1 = frequente, 0 = não frequente)
+-   PURCHASES: Quantidade de compras realizadas
+-   ONEOFFPURCHASES: Quantidade de compras feitas “de uma só vez” (sem  parcelar)
+-   INSTALLMENTS_PURCHASES: Quantidade de compras parceladas
+-   CASH_ADVANCE: Dinheiro adiantado
+-   PURCHASES_FREQUENCY: Frequência das compras (entre 1 e 0)
+-   ONEOFF_PURCHASES_FREQUENCY: Frequência de compras à vista (entre 1 e  0)
+-   PURCHASES_INSTALLMENTS_FREQUENCY: Frequência de compras parceladas  (entre 1 e 0)
+-   CASH_ADVANCE_FREQUENCY: Frequência de saques de dinheiro adiantado
+-   CASH_ADVANCE_TRX: Número de transações feitas como "Cash in Advance"
+-   PURCHASES_TRX: Número de compras
+-   CREDIT_LIMIT: Limite do cartão de crédito
+-   PAYMENTS: Valor pago
+-   MINIMUM_PAYMENTS: Valor mínimo pago
+-   PRC_FULL_PAYMENT: Percentual de pagamentos da fatura “completa”
+-   TENURE: Posse do titular do cartão
 
 
 1.  **INTUIÇÃO K-MEANS**
