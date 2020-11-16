@@ -55,4 +55,4 @@
 -   Funcionam se existir correlação entre os dados de entrada (resultados  ruins se os dados de entrada são todos independentes).
 ![AutoEncoders](https://github.com/callacius/Data_Science_Marketing/blob/main/images/10.png?raw=true)
 
-Fonte: ![Curso Udemy](**https://www.udemy.com/course/ciencia-de-dados-para-empresas-e-negocios**?raw=true)
+Fonte: **https://www.udemy.com/course/ciencia-de-dados-para-empresas-e-negocios**
